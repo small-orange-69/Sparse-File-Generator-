@@ -1,0 +1,169 @@
+Copyright 2024 Small Orange
+
+自定义非商业开源许可协议
+
+本许可协议（"协议"）由 Small Orange（"作者"）与任何下载、使用、修改本软件的个人或组织（"用户"）签订。
+
+⚠️ 免责声明 / AI 生成与翻译说明​
+本《许可协议》（LICENSE）的部分或全部内容可能由 AI 工具辅助生成或翻译，虽然经过人工审核与修订，但使用者仍应自行判断其适用性、准确性及法律效力，作者不对因 AI 生成或翻译内容导致的任何问题承担责任。
+
+一、定义
+1. "软件"指本稀疏文件创建者程序及其全部源代码、文档和相关材料。
+2. "商业用途"指任何直接或间接产生经济收益的使用方式。
+3. "个人用途"指个人学习、研究、实验等非商业性质的使用。
+
+二、授权范围
+在严格遵守本协议条款的前提下，作者授予用户以下权利：
+
+1. 免费下载、查看和使用本软件（仅限个人、学习、研究用途）；
+2. 查看、学习、修改源代码；
+3. 提出建议、反馈问题和参与改进讨论；
+4. 个人非商业用途的使用和实验。
+
+三、禁止行为
+用户不得进行以下行为：
+
+1. 商业使用禁止
+   - 将本软件或修改后的版本用于任何商业目的；
+   - 出售、发布为付费软件或服务；
+   - 集成进商业产品、SaaS服务、企业解决方案；
+   - 通过本项目获取任何商业利益（直接或间接）。
+
+2. 版权和署名禁止
+   - 去除、修改或隐藏软件中的作者署名信息；
+   - 删除或修改版权声明和本许可协议；
+   - 以作者名义发布修改后的版本。
+
+3. 分发和传播禁止
+   - 未经授权重新发布、二次分发本软件；
+   - 传播修改后的版本；
+   - 在任何平台上公开发布本软件或其修改版本。
+
+四、修改和衍生作品
+1. 用户可以修改源代码，但修改后的版本仅限个人使用；
+2. 修改后的版本不得公开发布或以任何形式分发；
+3. 修改内容不得侵犯任何第三方的知识产权；
+4. 用户对其修改内容承担全部责任。
+
+五、知识产权
+1. 本软件及其全部内容的知识产权归作者所有；
+2. 本协议不转让任何知识产权，仅授予有限的使用权；
+3. 用户承认并尊重作者对软件的所有权利。
+
+六、免责声明
+1. 本软件按"原样"提供，不提供任何明示或暗示的担保；
+2. 作者不对软件的适用性、安全性、准确性做任何保证；
+3. 用户使用本软件所产生的任何风险由用户自行承担；
+4. 作者不对因使用或无法使用本软件造成的任何损失承担责任；
+5. 本软件包含AI辅助生成的内容，但已由人工审核，使用者应自行判断其安全性和适用性。
+
+七、终止
+1. 如用户违反本协议任何条款，本授权自动终止；
+2. 授权终止后，用户必须立即停止使用并销毁所有副本；
+3. 协议终止不影响已经产生的权利和义务。
+
+八、其他条款
+1. 本协议受中华人民共和国法律管辖；
+2. 本协议为完整协议，取代任何之前的口头或书面协议；
+3. 如本协议任何条款被认定为无效，不影响其他条款的效力；
+4. 作者保留随时修改本协议的权利，修改后的协议自发布之日起生效。
+
+九、商业使用禁止
+本软件 禁止用于任何商业用途，包括但不限于：
+出售、发布为付费软件或服务
+集成进商业产品、SaaS 服务、企业解决方案
+通过本项目获取任何商业利益（直接或间接）
+本项目不提供任何形式的商业授权，亦不就该等使用承担任何责任。
+
+通过下载、安装、使用本软件，即表示您同意遵守本协议的所有条款和条件。如您不同意本协议，请勿使用本软件。
+
+版本：2.0
+发布日期：2025年
+生效日期：下载或使用本软件之日起
+
+---
+
+# ENGLISH VERSION - Custom Non-Commercial Open Source License Agreement
+
+Copyright 2024 Small Orange
+
+## Custom Non-Commercial Open Source License Agreement
+
+This License Agreement ("Agreement") is entered into by and between Small Orange ("Author") and any individual or organization that downloads, uses, or modifies this software ("User").
+
+⚠️ Disclaimer / AI Generation and Translation Notice​
+This License Agreement (LICENSE)​ may have been partially or fully generated or translated with the assistance of AI tools. Although it has been reviewed and revised by a human, users should independently assess its suitability, accuracy, and legal effect. The Author assumes no liability for any issues arising from AI-generated or translated content.
+
+### 1. Definitions
+1. "Software" refers to this Sparse File Generator program and all its source code, documentation, and related materials.
+2. "Commercial Use" refers to any use that directly or indirectly generates economic benefits.
+3. "Personal Use" refers to non-commercial use for personal learning, research, or experimentation.
+
+### 2. Grant of License
+Subject to strict compliance with the terms of this Agreement, the Author grants the User the following rights:
+
+1. **Free download, viewing, and use** of this Software (limited to personal, learning, and research purposes);
+2. **Viewing, learning, and modifying** source code;
+3. **Providing suggestions and feedback** and participating in improvement discussions;
+4. **Personal non-commercial use** and experimentation.
+
+### 3. Prohibited Actions
+The User shall NOT:
+
+#### 3.1 Commercial Use Prohibition
+- Use this Software or modified versions for any commercial purposes, including but not limited to:
+  - Selling or releasing as paid software
+  - Integrating into commercial products, SaaS services, or enterprise solutions
+  - Obtaining commercial benefits (direct or indirect) through this project
+
+#### 3.2 Copyright and Attribution Prohibition
+- Remove, modify, or hide author attribution information in the Software
+- Delete or modify copyright notices and this License Agreement
+- Publish modified versions under the Author's name
+
+#### 3.3 Distribution and Redistribution Prohibition
+- Re-publish or redistribute this Software without authorization
+- Distribute modified versions
+- Publicly release this Software or its modified versions on any platform
+
+### 4. Modifications and Derivative Works
+1. Users may modify source code, but modified versions are limited to personal use only;
+2. Modified versions shall not be publicly released or distributed in any form;
+3. Modifications must not infringe upon any third-party intellectual property rights;
+4. Users assume full responsibility for their modifications.
+
+### 5. Intellectual Property
+1. All intellectual property rights to this Software and its contents belong to the Author;
+2. This Agreement does not transfer any intellectual property rights, only grants limited usage rights;
+3. Users acknowledge and respect the Author's ownership of the Software.
+
+### 6. Disclaimer
+1. This Software is provided "AS IS" without any express or implied warranties;
+2. The Author makes no guarantees regarding the Software's suitability, security, or accuracy;
+3. Users assume all risks associated with using this Software;
+4. The Author shall not be liable for any damages resulting from the use or inability to use this Software;
+5. This Software may contain AI-assisted generated content that has been manually reviewed, and users should judge its safety and applicability themselves.
+
+### 7. Termination
+1. This license automatically terminates if the User violates any terms of this Agreement;
+2. Upon license termination, the User must immediately cease use and destroy all copies;
+3. Termination does not affect rights and obligations already incurred.
+
+### 8. Other Terms
+1. This Agreement is governed by the laws of the People's Republic of China;
+2. This Agreement constitutes the complete agreement, superseding any prior oral or written agreements;
+3. If any provision of this Agreement is deemed invalid, it does not affect the validity of other provisions;
+4. The Author reserves the right to modify this Agreement at any time, with modified versions taking effect upon publication.
+
+### 9. Commercial Use Prohibition
+The Software shall not be used for any commercial purposes, including but not limited to:
+1. Selling or distributing the Software as a paid product or service;
+2. Integrating the Software into commercial products, SaaS services, or enterprise solutions;
+3. Obtaining any commercial benefit (directly or indirectly) through the use of this Software or project.
+No form of commercial license or authorization is provided under this Agreement. The Author assumes no liability for any such commercial use.
+
+By downloading, installing, or using this Software, you agree to comply with all terms and conditions of this Agreement. If you do not agree with this Agreement, please do not use this Software.
+
+Version: 2.0
+Release Date: 2025
+Effective Date: Upon downloading or using this Software
